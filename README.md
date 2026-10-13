@@ -2,7 +2,7 @@
 
 Deep learning model that classifies retina fundus images into one of three diabetic retinopathy categories, with Grad-CAM heatmaps and a Gradio demo app.
 
-Built as a **client project** during my AI Engineering program (DataMites).
+Built as a **client project during my AI Engineer internship at Rubixe**. (I completed my AI Engineering course at DataMites.)
 
 > **Disclaimer:** This is an educational project. It is not a medical device and must not be used for diagnosis.
 
